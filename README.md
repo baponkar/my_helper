@@ -1,2 +1,3 @@
 # my_helper
 This is simple shell program to getting some regular process verry easily.
+Download all file in a single folder with name my_helper and goto this folder by using terminal and run the main program my_helper.sh....
