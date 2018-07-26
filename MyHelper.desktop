@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=MyHelper
+Comment=Helping to different work
+Exec=/usr/bin/my_helper.sh
+Icon=/usr/share/icons/help_icon.png
+Terminal=true
+Type=Application
+Categories=Reference

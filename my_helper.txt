@@ -1,0 +1,4 @@
+This program may be helping to getting some common regularly usable program verry easily....
+GNU license
+Develop By Bapon Kar <baponkar600@gmail.com
+26/07/2018
